@@ -1,0 +1,21 @@
+<p><p><style>
+  *{
+    background:radial-gradient(1q at 50%30%,#3F8090 63q,#D2F8FF);
+    *{
+      background:#072949;
+      margin:90 180;
+    }
+  }
+  p{
+    position:fixed;
+    padding:60 52;
+    margin:60-32
+  }
+  p+p{
+    padding:100;
+    margin:60-200;
+    border-radius:0 0 253q/0 0 312q;
+    background:#D2F8FF;
+    -webkit-box-reflect:right 42q
+  }
+</style>
