@@ -1,0 +1,14 @@
+<style>
+  &{
+    background:linear-gradient(#CF6939 50%,#6D8971 0)no-repeat#CF6939;
+    border:43q solid#F9D081;
+    border-radius:1in;
+    margin:15 130;
+    *{
+      background:#123747;
+      padding:40 30;
+      border-inline:43q solid#CF6939;
+      margin:80-40 30;
+    }
+  }
+</style>
