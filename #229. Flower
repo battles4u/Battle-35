@@ -1,0 +1,18 @@
+<p><p><style>
+  *{
+    background:#F4DCBF;
+    *{
+    background:#D95362;
+      margin:135 185
+    }
+  }
+  p{
+    position:fixed;
+    padding:60 30;
+    border-radius:0 1in;
+    margin:-120-60;
+    box-shadow:95q 159q#D95362;
+  +p{
+    -webkit-box-reflect:below 32q
+  }
+</style>
