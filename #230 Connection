@@ -1,0 +1,21 @@
+<p><style>
+  *{
+    background:conic-gradient(from 315deg,#F4DA64 75%,#3F4869 0);
+    margin:70 120;
+    border-radius:50%;
+    color:3f4869;
+    box-shadow:0 0 0 3in;
+    *{
+    background:#F4DA64;
+    margin:40;
+    box-shadow:0 0 0 21q;
+    *{
+      position:fixed;
+      padding:10 20;
+      margin:30-60;
+      border-radius:0;
+      box-shadow:23q 0#F4DA64,170q 0#F4DA64;
+    }
+  }
+  }
+  </style>
